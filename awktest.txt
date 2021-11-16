@@ -1,7 +1,7 @@
 drwxrwxrwx 1 root root  512 Nov 16 23:58 ./
 drwxrwxrwx 1 root root  512 Nov 16 19:14 ../
 drwxrwxrwx 1 root root  512 Nov 16 23:42 .git/
--rwxrwxrwx 1 root root   16 Nov 16 19:14 README.md*
--rwxrwxrwx 1 root root  206 Nov 16 22:30 getopt.sh*
--rwxrwxrwx 1 root root   90 Nov 16 21:32 getopts.sh*
--rwxrwxrwx 1 root root 3261 Nov 16 22:53 sedtest.txt*
+-rwxrwxrwx 1 root root   16 Nov 16 19:14 README.md
+-rwxrwxrwx 1 root root  206 Nov 16 22:30 getopt.sh
+-rwxrwxrwx 1 root root   90 Nov 16 21:32 getopts.sh
+-rwxrwxrwx 1 root root 3261 Nov 16 22:53 sedtest.txt
